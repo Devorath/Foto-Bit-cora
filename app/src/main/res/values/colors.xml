@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_profundo">#12304A</color>
+    <color name="azul_medio">#205B84</color>
+    <color name="verde_agua">#087E83</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="fondo">#F3F6FA</color>
+    <color name="texto">#172B3A</color>
+    <color name="texto_secundario">#607584</color>
+    <color name="borde">#DDE5EC</color>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Aplicación -->
+    <string name="app_name">Foto Bitácora</string>
+
+    <!-- Fotografías -->
+    <string name="foto_reciente">Vista previa de la última fotografía</string>
+    <string name="foto_guardada">Fotografía registrada</string>
+    <string name="titulo_fotos">Mis fotografías</string>
+    <string name="imagen_foto">Fotografía guardada</string>
+
+    <!-- Registro -->
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_local_notice">Los datos se conservarán únicamente en este dispositivo.</string>
+    <string name="register_first_name_hint">Nombre(s)</string>
+    <string name="register_last_name_hint">Apellidos</string>
+    <string name="register_email_hint">Correo electrónico</string>
+    <string name="register_password_hint">Contraseña (mínimo 8 caracteres)</string>
+    <string name="register_confirm_password_hint">Confirmar contraseña</string>
+    <string name="register_save_button">Registrar usuario</string>
+    <string name="register_back_button">Ya tengo cuenta</string>
+
+    <!-- Recursos conservados para las referencias existentes -->
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="los_datos_se_conservar_n_nicamente_en_este_dispositivo">Los datos se conservarán únicamente en este dispositivo.</string>
+    <string name="register_first_name">Nombre(s)</string>
+    <string name="register_last_name">Apellidos</string>
+    <string name="register_email">Correo electrónico</string>
+    <string name="register_password">Contraseña (mínimo 8 caracteres)</string>
+    <string name="register_confirm_password">Confirmar contraseña</string>
+    <string name="register_submit">Registrar usuario</string>
+    <string name="register_have_account">Ya tengo cuenta</string>
+
+    <!-- Inicio de sesión -->
+    <string name="login_image_description">Ilustración de fotografía y comentarios</string>
+    <string name="login_app_title">Foto Bitácora</string>
+    <string name="login_description">Tus fotografías, comentarios y coordenadas en un solo lugar.</string>
+    <string name="login_heading">Iniciar sesión</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_email_example">nombre@correo.com</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_enter">Ingresar</string>
+    <string name="login_create_account">Crear una cuenta</string>
+
+    <!-- Visibilidad de la contraseña -->
+    <string name="login_show_password">Mostrar contraseña</string>
+    <string name="login_hide_password">Ocultar contraseña</string>
+
+    <!-- Validación y errores -->
+    <string name="login_missing_credentials">Escribe correo y contraseña.</string>
+    <string name="login_email_required">Escribe tu correo electrónico.</string>
+    <string name="login_email_invalid">Escribe un correo electrónico válido.</string>
+    <string name="login_password_required">Escribe tu contraseña.</string>
+    <string name="login_invalid_credentials">Correo o contraseña incorrectos.</string>
+    <string name="login_access_error">No se pudo iniciar sesión. Inténtalo nuevamente.</string>
+
+    <!-- Estado de carga -->
+    <string name="login_processing">Verificando acceso…</string>
+
+    <!-- Almacenamiento local -->
+    <string name="login_local_notice">Tus datos se guardan en este dispositivo.</string>
+
+</resources>
