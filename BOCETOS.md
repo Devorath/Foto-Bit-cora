@@ -1,6 +1,6 @@
 # Bocetos / wireframes de FotoBitácora
 
-Puedes conforme al proyecto que serán replicados en Balsamiq.
+Propuestas conforme al proyecto, serán replicados en Balsamiq.
 
 ## Pantalla 1: Registro
 
