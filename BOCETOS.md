@@ -1,6 +1,6 @@
 # Bocetos / wireframes de FotoBitácora
 
-Puedes replicarlos con rectángulos y componentes en Balsamiq.
+Puedes conforme al proyecto que serán replicados en Balsamiq.
 
 ## Pantalla 1: Registro
 
@@ -68,7 +68,7 @@ Puedes replicarlos con rectángulos y componentes en Balsamiq.
 └─────────────────────────────────┘
 ```
 
-## Pantalla 5: Lista y detalle
+## Pantalla 5: Lista y detalle (pensando en será una sola pantalla o dos)
 
 ```text
 ┌───────────────────────┐  ┌───────────────────────┐
